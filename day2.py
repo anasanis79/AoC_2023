@@ -67,5 +67,6 @@ def calculate_from_file(f_name):
     print(sum_ids)
     print(sum_power)
 
+
 if __name__ == '__main__':
-    calculate_from_file("second_input.txt")
+    calculate_from_file("input/day2.txt")

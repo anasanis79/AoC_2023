@@ -181,4 +181,4 @@ def sum_all_gears(my_lines):
     print(summ)
 
 
-calculate_from_file("third_input.txt")
+calculate_from_file("input/day3.txt")

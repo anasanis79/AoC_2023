@@ -71,4 +71,5 @@ c.print_me()
 print(c.get_winning_val())
 print(c.num_of_matches())
 
-calculate_from_file("forth_input.txt")
+calculate_from_file("input/day4.txt")
+

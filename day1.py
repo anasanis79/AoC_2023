@@ -18,7 +18,7 @@ def calculate_from_file(f_name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    calculate_from_file("first_input.txt")
+    calculate_from_file("input/day1_input.txt")
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
